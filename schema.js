@@ -5,12 +5,12 @@ const posts = [
   {
     title: 'First post',
     description: 'Content of the first post',
-    author: 'Flavio'
+    author: 'Felicity'
   },
   {
     title: 'Second post',
     description: 'Content of the second post',
-    author: 'Roger'
+    author: 'Xueying'
   }
 ]
 
